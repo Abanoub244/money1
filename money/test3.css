@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    background: rgb(11, 2, 55);
+}
+header{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    background: linear-gradient(rgb(114, 213, 83),rgb(178, 229, 58));
+    -webkit-background-clip: text;
+    background-clip: text;
+    font-size: 30px;
+
+    color:transparent;
+
+}
+main{
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    background: linear-gradient(rgb(114, 213, 83),rgb(178, 229, 58));
+    -webkit-background-clip: text;
+    background-clip: text;
+    font-size: 30px;
+
+    color:transparent;
+
+}
+P{ display: flex;
+    justify-content:center ;
+    align-items: center;
+    background: linear-gradient(rgb(114, 213, 83),rgb(178, 229, 58));
+    -webkit-background-clip: text;
+    background-clip: text;
+    font-size: 30px;
+
+    color:transparent;
+
+    margin :150px 200px -250px 200px
+}
+#e{
+    right:30px
+}
+#nn{margin:300px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+
+
+}
+#n{
+    margin:-270px 350px 300px 350px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+input{
+    margin: 0 20px;
+    border: none;
+    width: 200px;padding:10px;
+border-radius: 25px;border: none;
+background: rgba(255, 255, 255, 0.652);
+}
+input:focus{
+    border-color:turquoise ;border: none;
+}
